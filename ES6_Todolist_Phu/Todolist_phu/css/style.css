@@ -328,3 +328,14 @@ ul.todo#completed li .buttons .complete .far{
 ul.todo#completed span{
   color: #25b99a;
 }
+.container-mes {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
+  padding: 0 5px;
+  margin-bottom: 10px;
+}
+.mes {
+  display: inline-block;
+}
